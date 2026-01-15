@@ -2478,26 +2478,26 @@
 		08FB7794FE84155DC02AAC07 /* openssh */ = {
 			isa = PBXGroup;
 			children = (
+				2E2B12E126175D8C00DF1CCA /* conf */,
 				2E699D042C45D7FF00D554D4 /* apple-what.c */,
 				2E84428529DDF221007C7DA3 /* dlopen_lv.c */,
-				FE15F0FC21237F6600B75390 /* Entitlements */,
 				FE9821451E9D8FEC008AA856 /* BATS.plist */,
-				1C59FB2F0FF15533008CBF3D /* OpenSSH.plist */,
-				1C59FB2E0FF15533008CBF3D /* com.openssh.sshd.plist */,
 				1C59FB310FF15533008CBF3D /* com.openssh.ssh-agent.plist */,
-				2E2B12E126175D8C00DF1CCA /* conf */,
-				1C59FB320FF15533008CBF3D /* pam.d */,
+				1C59FB2E0FF15533008CBF3D /* com.openssh.sshd.plist */,
+				1C59FB2F0FF15533008CBF3D /* OpenSSH.plist */,
 				77FA47AB279CE9A80037CB93 /* EndpointSecurity */,
-				FE996A811C7D90BA006637D5 /* OpenSSH */,
+				FE15F0FC21237F6600B75390 /* Entitlements */,
+				730F2F4418370038006E4D51 /* Frameworks */,
 				FE71DD061CA5E9EA00B2C19F /* Legacy Keygen */,
-				2ED2D479283C172600B260D6 /* xcconfigs */,
-				2EDA892725CCCD8400EC1639 /* xcscripts */,
+				1C76A5970FF0041900D35824 /* Linked */,
+				FE996A811C7D90BA006637D5 /* OpenSSH */,
 				1C76A75F0FF01A8600D35824 /* Other Installed Items */,
+				1C59FB320FF15533008CBF3D /* pam.d */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
 				477C98B22D832D950016D357 /* sshd-fvunlock */,
 				2EE99C972AF6A9FC0042361E /* sshd-keygen-wrapper */,
-				730F2F4418370038006E4D51 /* Frameworks */,
-				1AB674ADFE9D54B511CA2CBB /* Products */,
-				1C76A5970FF0041900D35824 /* Linked */,
+				2ED2D479283C172600B260D6 /* xcconfigs */,
+				2EDA892725CCCD8400EC1639 /* xcscripts */,
 			);
 			indentWidth = 8;
 			name = openssh;
